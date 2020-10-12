@@ -2,4 +2,4 @@ ArulProject Resolusu
 - mempelajari jalur front-end pemograman web
 - mempelajari jalur backend pemograman web
 - mempelajari machine learning
-- mepelajari pengembangan perangkat lunak
+- membuat program kasir
