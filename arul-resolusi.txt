@@ -1,0 +1,3 @@
+ArulProject Resolusu
+- mempelajari jalur front-end pemograman web
+- mempelajari jalur backend pemograman web
