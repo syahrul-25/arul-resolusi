@@ -3,3 +3,4 @@ ArulProject Resolusu
 - mempelajari jalur backend pemograman web
 - mempelajari machine learning
 - membuat program kasir
+- rencana belajar angular
